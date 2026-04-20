@@ -148,6 +148,6 @@ ORDER BY preco;
 
 ## 👤 Autor
 
-**Lucio** — [GitHub](https://github.com/dematoslucio123-lang) · [LinkedIn](#)
+**Lucio** — git clone https://github.com/dematoslucio123-lang/loja-virtual-sql.git · [LinkedIn](luciodematos)
 
 Projeto criado para prática e portfólio de SQL.
